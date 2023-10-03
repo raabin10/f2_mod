@@ -17,7 +17,7 @@ let arr = [
     },
     {
       name: "Cheese Pizza",
-      imageSrc: "https://source.unsplash.com/random?pizza",
+      imageSrc: "https://source.ungitsplash.com/random?pizza",
       time: "40 min",
       type: "veg",
       isLiked: false,
